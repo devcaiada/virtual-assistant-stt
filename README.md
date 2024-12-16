@@ -2,7 +2,7 @@
 
 Este projeto implementa um assistente virtual utilizando Processamento de Linguagem Natural (PLN). O assistente pode realizar diversas tarefas como converter texto em fala, reconhecer comandos de voz e executar ações automatizadas, como abrir sites específicos e buscar informações online.
 
-![virtual-assistant]()
+![virtual-assistant](https://github.com/devcaiada/virtual-assistant-stt/blob/main/assets/virtual%20assistant.jpg?raw=true)
 
 ## Funcionalidades
 
